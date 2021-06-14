@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="953cfd38-7d17-4fc1-9d45-d2aca412fd93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_76.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_30_1_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_17_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_65_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/build/BaseBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/build/ChatMsgBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/build/HeartBeatMsgBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/build/LoginMsgBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/build/NotificationMsgBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/command/BaseCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/command/ChatConsoleCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/command/ClinetMenuCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/command/LoginConsoleCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/command/LogoutConsoleCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/core/ChatNettyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/core/ClientSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/core/CommandController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/core/FutureTaskScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/core/LowSpeedConsumerClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/core/SoulTest1Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/exception/InvalidFrameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/handler/ChatMsgHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/handler/ExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/handler/HeartBeatClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/handler/LoginResponseHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/handler/LowSpeedConsumerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/handler/SoulTest1ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/listen/MyServletContextListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/protobuf/ProtoInstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/protobuf/SimpleProtobufDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/protobuf/SimpleProtobufEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/sender/BaseSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/sender/ChatSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/example/sender/LoginSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/build/BaseBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/build/ChatMsgBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/build/HeartBeatMsgBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/build/LoginMsgBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/build/NotificationMsgBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/command/BaseCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/command/ChatConsoleCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/command/ClinetMenuCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/command/LoginConsoleCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/command/LogoutConsoleCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/core/ChatNettyClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/core/ChatNettyClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/core/ClientSession$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/core/ClientSession.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/core/CommandController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/core/FutureTaskScheduler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/core/LowSpeedConsumerClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/core/LowSpeedConsumerClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/core/SoulTest1Client$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/core/SoulTest1Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/exception/InvalidFrameException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/handler/ChatMsgHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/handler/ExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/handler/HeartBeatClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/handler/LoginResponseHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/handler/LowSpeedConsumerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/handler/SoulTest1ClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/listen/MyServletContextListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/protobuf/ProtoInstant$ResultCodeEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/protobuf/ProtoInstant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/protobuf/SimpleProtobufDecoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/protobuf/SimpleProtobufEncoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/sender/BaseSender.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/sender/ChatSender.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/classes/org/example/sender/LoginSender.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/target/test-classes/org/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/commons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/proto/ProtoMsg.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/proto/msg/org/example/entity/ProtoMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/proto/protoc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/src/main/java/org/example/entity/ChatMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/src/main/java/org/example/entity/ProtoMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/src/main/java/org/example/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/src/main/java/org/example/service/TestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ChatMsg$MSGTYPE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ChatMsg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$HeadType$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$HeadType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$LoginRequest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$LoginRequest$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$LoginRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$LoginRequestOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$LoginResponse$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$LoginResponse$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$LoginResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$LoginResponseOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$Message$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$Message$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$MessageHeartBeat$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$MessageHeartBeat$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$MessageHeartBeat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$MessageHeartBeatOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$MessageNotification$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$MessageNotification$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$MessageNotification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$MessageNotificationOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$MessageOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$MessageRequest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$MessageRequest$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$MessageRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$MessageRequestOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$MessageResponse$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$MessageResponse$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$MessageResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg$MessageResponseOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/ProtoMsg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/User$PLATTYPE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/classes/org/example/service/TestService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons/target/test-classes/org/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/org/example/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wc-IM.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\environment\mavenRepo" />
+        <option name="mavenHome" value="D:\environment\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\environment\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tvVu7ItYChIduhbi1xNQPAXso9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../uml-image" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.Client (1)">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Client" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Client (1)" />
+      <item itemvalue="Spring Boot.Client" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="953cfd38-7d17-4fc1-9d45-d2aca412fd93" name="Default Changelist" comment="" />
+      <created>1623649773674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623649773674</updated>
+      <workItem from="1623649780524" duration="10000000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../../" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/client/src/main/java/org/example/core/CommandController.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
