@@ -30,7 +30,7 @@ import java.util.concurrent.TimeUnit;
 @Slf4j
 public class CommandController {
     private Map<String, BaseCommand> commandMap;
-    private boolean connectFlag = false;
+    private volatile boolean connectFlag = false;
     private ClientSession session;
     private Channel channel;
     private User user;

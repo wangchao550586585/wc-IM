@@ -36,7 +36,7 @@ public class ChatConsoleCommand implements BaseCommand {
             String input = scanner.next();
             info = input.split(":");
             if (info.length != 2) {
-                System.out.println("请输入聊天的消息(id:message):");
+                System.out.println("请输入聊天的消息(userId:message):");
             }else {
                 break;
             }
